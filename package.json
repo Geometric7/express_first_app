@@ -1,0 +1,16 @@
+{
+  "name": "express_first_app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn nodemon server.js"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "express": "4.17.1",
+    "express-handlebars": "3.1.0",
+    "global": "^4.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
